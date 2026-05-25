@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.0.6",
-  "latestVersionCode": 7,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.6/BlueCoast-v1.0.6-release.apk",
-  "releaseNotes": "Browse API pricing integration.\n- Added live Browse API pricing searches\n- Added exact/fallback grading and language filtering\n- Added active-listing pricing references\n- Added Browse API diagnostics and provider health checks\n- Improved fallback/reference pricing handling\n- Release signed production build",
-  "publishedAt": "2026-05-25T18:45:00-03:00",
+  "latestVersionName": "1.0.7",
+  "latestVersionCode": 8,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.7a/BlueCoast-v1.0.7-build2.apk",
+  "releaseNotes": "Proxy language filtering fix.\n- Japanese cards now require Japanese proxy comps\n- English comps no longer count as exact proxies for Japanese inventory\n- Added stricter set/card-number/language filtering\n- Improved pricing diagnostics for proxy/fallback logic",
+  "publishedAt": "2026-05-25T19:12:00-03:00",
   "isForced": false
 }
