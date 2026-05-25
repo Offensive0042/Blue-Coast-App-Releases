@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.0.9",
-  "latestVersionCode": 10,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.9/BlueCoast-v1.0.9-release.apk",
-  "releaseNotes": "Manual comp refresh and TAG proxy weighting fix.\n- Added Refresh Comps to the graded inventory page\n- Refreshes only visible filtered graded inventory comps\n- Clears stale generated proxy cache for refreshed slabs\n- Prevents TAG active proxy references from compounding through full landed-cost/margin weighting",
-  "publishedAt": "2026-05-25T20:05:00-03:00",
+  "latestVersionName": "1.0.10",
+  "latestVersionCode": 11,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.10/BlueCoast-v1.0.10-release.apk",
+  "releaseNotes": "Fixed Brazil pricing formula persistence.\n- Final Suggested BRL now uses the completed Brazil pricing formula\n- Pricing breakdown and persisted values now match\n- Improved TAG pricing consistency and proxy handling",
+  "publishedAt": "2026-05-25T20:15:00-03:00",
   "isForced": false
 }
