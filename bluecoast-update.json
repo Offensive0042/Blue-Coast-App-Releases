@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.0.1",
-  "latestVersionCode": 2,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.1/BlueCoast-v1.0.1-release.apk",
-  "releaseNotes": "PSA shared scanner credentials now sync correctly across authorized users.",
-  "publishedAt": "2026-05-25T05:00:00-03:00",
+  "latestVersionName": "1.0.2",
+  "latestVersionCode": 3,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.2/BlueCoast-v1.0.2-release.apk",
+  "releaseNotes": "CGC pricing persistence fix.\n- Suggested USD/BRL values now persist correctly\n- Inventory cards now display CGC suggested pricing properly\n- Pricing logs and inventory pricing state synchronized\n- Release signed production build",
+  "publishedAt": "2026-05-25T12:00:00-03:00",
   "isForced": false
 }
