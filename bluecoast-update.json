@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.0.3",
-  "latestVersionCode": 4,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.3/BlueCoast-v1.0.3-release.apk",
-  "releaseNotes": "Shared API credential sync and eBay settings split.\n- PSA, TAG, CGC, PriceCharting, TCGplayer, and eBay credentials now use shared owner-managed credential sync\n- eBay API settings moved to a dedicated section\n- Fixed eBay credential persistence after save/restart\n- Lower-level users can use shared provider credentials without exposing secrets",
-  "publishedAt": "2026-05-25T17:10:00-03:00",
+  "latestVersionName": "1.0.4",
+  "latestVersionCode": 5,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.4/BlueCoast-v1.0.4-release.apk",
+  "releaseNotes": "eBay OAuth and Browse API pricing provider.\n- Added automatic eBay OAuth client-credentials token generation\n- Enabled eBay Browse API active-listing pricing provider\n- Added eBay provider diagnostics\n- Added exact language/grade/company matching rules for eBay pricing references",
+  "publishedAt": "2026-05-25T17:35:00-03:00",
   "isForced": false
 }
