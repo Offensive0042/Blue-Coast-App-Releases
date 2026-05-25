@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.0.4",
-  "latestVersionCode": 5,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.4/BlueCoast-v1.0.4-release.apk",
-  "releaseNotes": "eBay OAuth and Browse API pricing provider.\n- Added automatic eBay OAuth client-credentials token generation\n- Enabled eBay Browse API active-listing pricing provider\n- Added eBay provider diagnostics\n- Added exact language/grade/company matching rules for eBay pricing references",
-  "publishedAt": "2026-05-25T17:35:00-03:00",
+  "latestVersionName": "1.0.5",
+  "latestVersionCode": 6,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.5/BlueCoast-v1.0.5-release.apk",
+  "releaseNotes": "eBay OAuth activation and provider enablement fix.\n- Fixed automatic eBay OAuth token activation\n- Added Browse API provider health checks\n- Added sanitized eBay provider diagnostics\n- Fixed shared credential payload activation timing\n- Improved provider enablement flow after credential save\n- Release signed production build",
+  "publishedAt": "2026-05-25T18:10:00-03:00",
   "isForced": false
 }
