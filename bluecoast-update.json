@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.1",
-  "latestVersionCode": 26,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.1/BlueCoast-v1.2.1-release.apk",
-  "releaseNotes": "Raw and sealed inventory UI stabilization patch.\n- Fixed Raw Cards and Sealed Product control panel layout regression\n- Restored horizontal search and action button rendering\n- Improved responsive control behavior on phone and tablet\n- Preserved raw/sealed pricing foundation and stable graded PSA/TAG/CGC systems",
-  "publishedAt": "2026-05-26T05:30:00-03:00",
+  "latestVersionName": "1.2.2",
+  "latestVersionCode": 27,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.2/BlueCoast-v1.2.2-release.apk",
+  "releaseNotes": "Sealed product lookup stability and eBay integration patch.\n- Added sealed-only eBay Browse lookup with safer result parsing\n- Improved Pokemon Center Special Box city/regional normalization\n- Hardened sealed search result rendering against malformed provider data\n- Preserved graded PSA/TAG/CGC, raw pricing, sync, and updater systems",
+  "publishedAt": "2026-05-26T18:30:00-03:00",
   "isForced": false
 }
