@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.1.2",
-  "latestVersionCode": 15,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.2/BlueCoast-v1.1.2-release.apk",
-  "releaseNotes": "PSA image extraction and promo pricing fix.\n- Fixed PSA WebView cert image extraction from report pages\n- Added Next.js image URL decoding for PSA cert images\n- Improved PSA image diagnostics and caching\n- Fixed promo card pricing queries so ETB/source box metadata no longer pollutes primary comp searches",
-  "publishedAt": "2026-05-25T23:15:00-03:00",
+  "latestVersionName": "1.1.3",
+  "latestVersionCode": 16,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.3/BlueCoast-v1.1.3-release.apk",
+  "releaseNotes": "PSA WebView report lookup rebuild.\n- Rebuilt PSA image lookup around the TAG-style rendered report flow\n- Waits for official PSA cert report DOM readiness before extraction\n- Prefers front slab cert images and deprioritizes back/reverse candidates\n- Prevents coroutine cancellation from surfacing as a lookup failure",
+  "publishedAt": "2026-05-26T00:20:00-03:00",
   "isForced": false
 }
