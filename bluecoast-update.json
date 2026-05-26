@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.1.4",
-  "latestVersionCode": 17,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.4/BlueCoast-v1.1.4-release.apk",
-  "releaseNotes": "PSA pricing handoff fix.\n- Restored PSA WebView lookup handoff to pricing engine\n- New PSA scans now populate normalized pricing/report fields\n- PSA image loading remains fast\n- Pricing no longer depends on image extraction success",
-  "publishedAt": "2026-05-26T00:35:00-03:00",
+  "latestVersionName": "1.1.5",
+  "latestVersionCode": 18,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.5/BlueCoast-v1.1.5-release.apk",
+  "releaseNotes": "Emergency PSA scanner rollback.\n- Reverted PSA scanner/report lookup to the stable provider path\n- Restored PSA metadata/report/pricing handoff behavior\n- Removed the PSA WebView/session handoff path that broke new scans\n- Kept TAG, CGC, eBay pricing, sync, updater, and shared credentials unchanged",
+  "publishedAt": "2026-05-26T01:25:00-03:00",
   "isForced": false
 }
