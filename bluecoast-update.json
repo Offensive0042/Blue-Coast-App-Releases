@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.1.9",
-  "latestVersionCode": 22,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.9/BlueCoast-v1.1.9-release.apk",
-  "releaseNotes": "PSA image enrichment and scan-path optimization.\n- Kept PSA Public API as the fast metadata authority\n- Deferred PSA cert-page image enrichment so metadata and pricing return first\n- Improved PSA cert image candidate filtering and diagnostics\n- Existing cached PSA images load immediately\n- TAG, CGC, sync, pricing formulas, updater, and shared credentials unchanged",
-  "publishedAt": "2026-05-26T03:50:44-03:00",
+  "latestVersionName": "1.1.10",
+  "latestVersionCode": 23,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.10/BlueCoast-v1.1.10-release.apk",
+  "releaseNotes": "Final PSA slab image extraction fix.\n- Added rendered PSA cert-page image extraction for lazy-loaded slab images\n- Waits briefly for the slab viewer after DOM ready, then caches the front slab image\n- Avoids redundant PSA page reloads and long blocking image waits\n- PSA API metadata and pricing remain unchanged\n- TAG, CGC, sync, updater, and shared credentials unchanged",
+  "publishedAt": "2026-05-26T04:14:33-03:00",
   "isForced": false
 }
