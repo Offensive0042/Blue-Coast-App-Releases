@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.0.11",
-  "latestVersionCode": 12,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.0.11/BlueCoast-v1.0.11-release.apk",
-  "releaseNotes": "Sync reconciliation and queue explosion fix.\n- Added safe full inventory reconciliation mode\n- Fixed incremental checkpoint drift\n- Added pending queue compaction and dedupe\n- Prevented recursive snapshot requeue storms\n- Improved multi-device inventory recovery and sync stability",
-  "publishedAt": "2026-05-25T21:00:00-03:00",
+  "latestVersionName": "1.1.0",
+  "latestVersionCode": 13,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.0/BlueCoast-v1.1.0-release.apk",
+  "releaseNotes": "Major stabilization milestone release.\n- Optimized PSA scan performance and async image loading\n- Improved scanner responsiveness\n- Preserved exact PSA cert image retrieval\n- Continued sync, pricing, and provider stabilization",
+  "publishedAt": "2026-05-25T21:30:00-03:00",
   "isForced": false
 }
