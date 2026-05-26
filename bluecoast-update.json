@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.1.11",
-  "latestVersionCode": 24,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.11/BlueCoast-v1.1.11-release.apk",
-  "releaseNotes": "PSA pricing trigger hotfix.\n- Restored PSA pricing dispatch after API-first scan metadata\n- New PSA scans now trigger provider comp discovery and pricing snapshots\n- Added PSA pricing handoff diagnostics\n- PSA image, metadata, TAG, CGC, sync, updater, and shared credentials unchanged",
-  "publishedAt": "2026-05-26T04:35:00-03:00",
+  "latestVersionName": "1.2.0",
+  "latestVersionCode": 25,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.0/BlueCoast-v1.2.0-release.apk",
+  "releaseNotes": "Raw and sealed inventory pricing foundation.\n- Added isolated raw-card pricing pipeline\n- Added isolated sealed-product pricing pipeline\n- Added LigaPokemon reference integration\n- Added separate raw/sealed pricing refresh controls\n- Added isolated raw/sealed diagnostics\n- Preserved stable graded PSA/TAG/CGC systems",
+  "publishedAt": "2026-05-26T04:15:00-03:00",
   "isForced": false
 }
