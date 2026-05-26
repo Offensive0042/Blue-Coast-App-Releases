@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.1.8",
-  "latestVersionCode": 21,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.8/BlueCoast-v1.1.8-release.apk",
-  "releaseNotes": "PSA API-first scanner update.\n- PSA Public API now drives core cert metadata\n- PSA cert page is used only for image, estimate, and sales-history enrichment\n- Fixed polluted PSA names, grades, set names, and population chips\n- Image failure no longer blocks metadata or pricing\n- TAG, CGC, sync, updater, and shared credentials unchanged",
-  "publishedAt": "2026-05-26T03:25:00-03:00",
+  "latestVersionName": "1.1.9",
+  "latestVersionCode": 22,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.9/BlueCoast-v1.1.9-release.apk",
+  "releaseNotes": "PSA image enrichment and scan-path optimization.\n- Kept PSA Public API as the fast metadata authority\n- Deferred PSA cert-page image enrichment so metadata and pricing return first\n- Improved PSA cert image candidate filtering and diagnostics\n- Existing cached PSA images load immediately\n- TAG, CGC, sync, pricing formulas, updater, and shared credentials unchanged",
+  "publishedAt": "2026-05-26T03:50:44-03:00",
   "isForced": false
 }
