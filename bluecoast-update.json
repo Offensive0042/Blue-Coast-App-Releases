@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.1.5",
-  "latestVersionCode": 18,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.5/BlueCoast-v1.1.5-release.apk",
-  "releaseNotes": "Emergency PSA scanner rollback.\n- Reverted PSA scanner/report lookup to the stable provider path\n- Restored PSA metadata/report/pricing handoff behavior\n- Removed the PSA WebView/session handoff path that broke new scans\n- Kept TAG, CGC, eBay pricing, sync, updater, and shared credentials unchanged",
-  "publishedAt": "2026-05-26T01:25:00-03:00",
+  "latestVersionName": "1.1.6",
+  "latestVersionCode": 19,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.1.6/BlueCoast-v1.1.6-release.apk",
+  "releaseNotes": "Full PSA cert-page authority rebuild.\n- PSA cert page now acts as authoritative metadata and pricing source\n- Added PSA sales-history parsing\n- Added PSA estimate parsing\n- Added stable front/back slab image extraction\n- Rebuilt PSA pricing handoff using PSA-normalized card identity\n- eBay Browse API now acts as supplemental PSA enrichment\n- TAG, CGC, sync, updater, and shared credentials unchanged",
+  "publishedAt": "2026-05-26T01:45:00-03:00",
   "isForced": false
 }
