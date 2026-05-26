@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.0",
-  "latestVersionCode": 25,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.0/BlueCoast-v1.2.0-release.apk",
-  "releaseNotes": "Raw and sealed inventory pricing foundation.\n- Added isolated raw-card pricing pipeline\n- Added isolated sealed-product pricing pipeline\n- Added LigaPokemon reference integration\n- Added separate raw/sealed pricing refresh controls\n- Added isolated raw/sealed diagnostics\n- Preserved stable graded PSA/TAG/CGC systems",
-  "publishedAt": "2026-05-26T04:15:00-03:00",
+  "latestVersionName": "1.2.1",
+  "latestVersionCode": 26,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.1/BlueCoast-v1.2.1-release.apk",
+  "releaseNotes": "Raw and sealed inventory UI stabilization patch.\n- Fixed Raw Cards and Sealed Product control panel layout regression\n- Restored horizontal search and action button rendering\n- Improved responsive control behavior on phone and tablet\n- Preserved raw/sealed pricing foundation and stable graded PSA/TAG/CGC systems",
+  "publishedAt": "2026-05-26T05:30:00-03:00",
   "isForced": false
 }
