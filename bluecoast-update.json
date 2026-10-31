@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.2",
-  "latestVersionCode": 27,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.2/BlueCoast-v1.2.2-release.apk",
-  "releaseNotes": "Sealed product lookup stability and eBay integration patch.\n- Added sealed-only eBay Browse lookup with safer result parsing\n- Improved Pokemon Center Special Box city/regional normalization\n- Hardened sealed search result rendering against malformed provider data\n- Preserved graded PSA/TAG/CGC, raw pricing, sync, and updater systems",
-  "publishedAt": "2026-05-26T18:30:00-03:00",
+  "latestVersionName": "1.2.3",
+  "latestVersionCode": 28,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.3/BlueCoast-v1.2.3-release.apk",
+  "releaseNotes": "Emergency sync queue stability fix.\n- Added single-flight batched queue uploads and capped retry backoff\n- Coalesced superseded pending pricing snapshots safely\n- Force Sync and Upload Local Data drain actionable rows without re-queuing snapshots\n- Quarantined malformed/permanent failures with visible sync diagnostics\n- Pending count now reflects actionable changes",
+  "publishedAt": "2026-10-31T17:49:56-03:00",
   "isForced": false
 }
