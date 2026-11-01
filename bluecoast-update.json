@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.3",
-  "latestVersionCode": 28,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.3/BlueCoast-v1.2.3-release.apk",
-  "releaseNotes": "Emergency sync queue stability fix.\n- Added single-flight batched queue uploads and capped retry backoff\n- Coalesced superseded pending pricing snapshots safely\n- Force Sync and Upload Local Data drain actionable rows without re-queuing snapshots\n- Quarantined malformed/permanent failures with visible sync diagnostics\n- Pending count now reflects actionable changes",
-  "publishedAt": "2026-10-31T17:49:56-03:00",
+  "latestVersionName": "1.2.4",
+  "latestVersionCode": 29,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.4/BlueCoast-v1.2.4-release.apk",
+  "releaseNotes": "Authentication, sync performance, and reporting stability update.\n- Improved authentication and session handling, including Logout and Switch User\n- Prevented Live Sync writes without a current authenticated session\n- Optimized incoming synchronization database lookups\n- Added the Room 27-to-28 Pricing Logs index migration\n- Reduced memory use during daily JSON report generation\n- Added Owner-only business-session diagnostics\n- Preserved existing PSA/TAG/CGC and pricing integrations\nKnown issue: cold offline startup may still fail and requires follow-up.",
+  "publishedAt": "2026-11-01T01:32:31-03:00",
   "isForced": false
 }
