@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.8",
-  "latestVersionCode": 33,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.8/BlueCoast-v1.2.8-release.apk",
-  "releaseNotes": "Pricing labels and readability update.\n- Clarified US market references, Brazilian suggested prices, and current asking prices\n- Aligned breakdown values with saved calculation inputs\n- Improved wrapping for long card/set names and grading labels\n- Preserved pricing formulas, saved prices, inventory data, and sync",
-  "publishedAt": "2026-11-02T03:48:10-03:00",
+  "latestVersionName": "1.2.9",
+  "latestVersionCode": 34,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.9/BlueCoast-v1.2.9-release.apk",
+  "releaseNotes": "Manual Brazilian comparables and adjustable markup.\n- Improved item-scoped manual comparables for Graded, Raw, and Sealed pricing using each item's condition and language by default\n- Retained store/category markup defaults and optional per-item overrides\n- Preserved purchase costs, asking prices, profit/ROI calculations, and existing international pricing behavior",
+  "publishedAt": "2026-11-02T13:59:36-03:00",
   "isForced": false
 }
