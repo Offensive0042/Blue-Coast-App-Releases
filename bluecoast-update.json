@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.6",
-  "latestVersionCode": 31,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.6/BlueCoast-v1.2.6-release.apk",
-  "releaseNotes": "Unified pricing and PSA caching update.\n- Unified editable pricing across Graded, Raw, and Sealed inventory\n- Improved PSA lookup caching",
-  "publishedAt": "2026-11-02T01:17:55-03:00",
+  "latestVersionName": "1.2.7",
+  "latestVersionCode": 32,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.7/BlueCoast-v1.2.7-release.apk",
+  "releaseNotes": "Pricing Breakdown UI simplification.\n- Added a visible price summary and direct asking-price edit/save\n- Grouped USA and Brazil comparables in a collapsed-by-default section\n- Grouped advanced and category-wide pricing controls in collapsed sections\n- Preserved existing pricing formulas and item-scoped data",
+  "publishedAt": "2026-11-02T02:23:00-03:00",
   "isForced": false
 }
