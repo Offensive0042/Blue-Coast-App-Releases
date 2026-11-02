@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.9",
-  "latestVersionCode": 34,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.9/BlueCoast-v1.2.9-release.apk",
-  "releaseNotes": "Manual Brazilian comparables and adjustable markup.\n- Improved item-scoped manual comparables for Graded, Raw, and Sealed pricing using each item's condition and language by default\n- Retained store/category markup defaults and optional per-item overrides\n- Preserved purchase costs, asking prices, profit/ROI calculations, and existing international pricing behavior",
-  "publishedAt": "2026-11-02T13:59:36-03:00",
+  "latestVersionName": "1.2.10",
+  "latestVersionCode": 35,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.10/BlueCoast-v1.2.10-release.apk",
+  "releaseNotes": "Safe pricing correction.\n- Made the existing Desired Margin editable per item using the six-step formula\n- Manual Brazilian BRL comparables now affect Graded, RAW, and Sealed suggested prices\n- Simplified pricing controls while preserving purchase prices, asking prices, and existing provider integrations",
+  "publishedAt": "2026-11-02T18:18:57-03:00",
   "isForced": false
 }
