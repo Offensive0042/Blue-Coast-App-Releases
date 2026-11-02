@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.11",
-  "latestVersionCode": 36,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.11/BlueCoast-v1.2.11-release.apk",
-  "releaseNotes": "Restored legacy pricing workflow.\n- Removed the v1.2.6-v1.2.10 pricing overhaul and restored the recovered pre-overhaul calculations and provider flow\n- Preserved current operations, authentication, permissions, scanners, and ordinary Live Sync behavior\n- Added a Room 29-to-30 compatibility migration that archives retired pricing sync operations while preserving ordinary pending entries",
-  "publishedAt": "2026-11-02T19:54:39Z",
+  "latestVersionName": "1.2.12",
+  "latestVersionCode": 37,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.12/BlueCoast-v1.2.12-release.apk",
+  "releaseNotes": "Make pricing comparables removable.\n- Added item-specific removal and restoration for cached pricing source aggregates across Graded, RAW, and Sealed inventory\n- Saved manual comparable rows can be removed and restored without deleting their history\n- Added recalculation from cached inputs without provider requests\n- Preserved the legacy pricing formulas, purchase costs, and asking prices",
+  "publishedAt": "2026-11-02T20:50:26Z",
   "isForced": false
 }
