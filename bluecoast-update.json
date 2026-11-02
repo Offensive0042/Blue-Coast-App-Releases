@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.10",
-  "latestVersionCode": 35,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.10/BlueCoast-v1.2.10-release.apk",
-  "releaseNotes": "Safe pricing correction.\n- Made the existing Desired Margin editable per item using the six-step formula\n- Manual Brazilian BRL comparables now affect Graded, RAW, and Sealed suggested prices\n- Simplified pricing controls while preserving purchase prices, asking prices, and existing provider integrations",
-  "publishedAt": "2026-11-02T18:18:57-03:00",
+  "latestVersionName": "1.2.11",
+  "latestVersionCode": 36,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.11/BlueCoast-v1.2.11-release.apk",
+  "releaseNotes": "Restored legacy pricing workflow.\n- Removed the v1.2.6-v1.2.10 pricing overhaul and restored the recovered pre-overhaul calculations and provider flow\n- Preserved current operations, authentication, permissions, scanners, and ordinary Live Sync behavior\n- Added a Room 29-to-30 compatibility migration that archives retired pricing sync operations while preserving ordinary pending entries",
+  "publishedAt": "2026-11-02T19:54:39Z",
   "isForced": false
 }
