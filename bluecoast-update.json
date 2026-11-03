@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.13",
-  "latestVersionCode": 38,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.13/BlueCoast-v1.2.13-release.apk",
-  "releaseNotes": "Manual comparable synchronization update.\n- Added per-item Add/Edit for Graded, RAW, and Sealed comparables\n- Added offline-safe synchronization for comparable metadata and Remove/Restore states\n- Preserved existing legacy pricing formulas and saved inventory prices",
-  "publishedAt": "2026-11-02T22:15:07Z",
+  "latestVersionName": "1.2.14",
+  "latestVersionCode": 39,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.14/BlueCoast-v1.2.14-release.apk",
+  "releaseNotes": "Pricing and notes update.\n- Added item-specific Desired Margin preview and explicit save for Graded, RAW, and Sealed inventory\n- Added a read-only Brazil vs US market comparison\n- Made inventory Notes collapsed by default and expandable",
+  "publishedAt": "2026-11-03T00:18:20Z",
   "isForced": false
 }
