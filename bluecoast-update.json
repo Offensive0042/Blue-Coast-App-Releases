@@ -1,8 +1,8 @@
 {
-  "latestVersionName": "1.2.14",
-  "latestVersionCode": 39,
-  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.14/BlueCoast-v1.2.14-release.apk",
-  "releaseNotes": "Pricing and notes update.\n- Added item-specific Desired Margin preview and explicit save for Graded, RAW, and Sealed inventory\n- Added a read-only Brazil vs US market comparison\n- Made inventory Notes collapsed by default and expandable",
-  "publishedAt": "2026-11-03T00:18:20Z",
+  "latestVersionName": "1.2.15",
+  "latestVersionCode": 40,
+  "apkUrl": "https://github.com/Offensive0042/Blue-Coast-App-Releases/releases/download/v1.2.15/BlueCoast-v1.2.15-release.apk",
+  "releaseNotes": "Purchase Price management update.\n- Added USD and BRL purchase-price entry in Pricing Breakdown\n- Preserved original currency and historical exchange-rate basis\n- Added category-aware purchase-cost editing for graded, RAW, sealed, and Mystery Pack inventory\n- Kept asking prices and suggested-price calculations unchanged",
+  "publishedAt": "2026-11-03T01:39:37Z",
   "isForced": false
 }
